@@ -48,7 +48,8 @@ Falowy Trójkąt mocy orbitalnej
 
 Trójkąt impedancji orbitalnej
 
-<img width="605" height="316" alt="image" src="https://github.com/user-attachments/assets/aed26e52-662c-4ab2-8242-b37c478c304d" />
+<img width="455" height="237" alt="image" src="https://github.com/user-attachments/assets/3f49657b-d06b-49e8-8eff-88eda2904d2b" />
+
 
 
 
@@ -58,4 +59,10 @@ Rozkład fazowy mocy orbitalnych (widok orbitalny)
 
 <img width="484" height="586" alt="image" src="https://github.com/user-attachments/assets/87b24ab7-ec33-4289-a673-817d692924aa" />
 
+
+
+
+Wykres czterokwadrantowy mocy orbitalnej
+
+<img width="555" height="498" alt="image" src="https://github.com/user-attachments/assets/7c3636e2-df54-4a41-9781-4b901af259ff" />
 
