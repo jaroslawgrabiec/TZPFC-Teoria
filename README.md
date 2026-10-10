@@ -30,6 +30,16 @@ Trójkąt falowy pędu zespolonego
 <img width="705" height="483" alt="image" src="https://github.com/user-attachments/assets/b71d941c-a975-4a91-9cf0-f7f6810a9f68" />
 
 
+
 Równanie falowe zespolonej mocy orbitalnej
 
 <img width="933" height="61" alt="image" src="https://github.com/user-attachments/assets/16dbe56e-bdb0-4711-85e0-5ea3c48cae7b" />
+
+
+
+
+
+Falowy Trójkąt mocy orbitalnej
+
+<img width="818" height="356" alt="image" src="https://github.com/user-attachments/assets/82e2562c-9cc2-4fa1-9380-66c3420bee81" />
+
