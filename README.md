@@ -9,7 +9,8 @@ Rozróżnienie kanałów energetycznych
 
 Równanie falowe pędu zespolonego
 
-F_z=〖∑F〗_r+i ∑F_(θ )= m((d^2 r)/(ⅆt^2 )-〖r(ⅆθ/ⅆt)^2〗_  )  +i m(r (d^2 θ)/(ⅆt^2 )+2 dr/ⅆt  ⅆθ/ⅆt)
+<img width="590" height="69" alt="image" src="https://github.com/user-attachments/assets/0b138085-f046-4a99-8ed5-376ef556bbbd" />
+
 
 Trójkąt falowy pędu zespolonego
 
