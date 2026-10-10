@@ -13,7 +13,8 @@ Równanie falowe pędu zespolonego
 
 Trójkąt falowy pędu zespolonego
 
-<img width="990" height="678" alt="image" src="https://github.com/user-attachments/assets/5b67de31-4f79-4d37-95a5-b86a2845605b" />
+<img width="705" height="483" alt="image" src="https://github.com/user-attachments/assets/b71d941c-a975-4a91-9cf0-f7f6810a9f68" />
+
 
 Równanie falowe zespolonej mocy orbitalnej
 
