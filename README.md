@@ -4,5 +4,6 @@ Praca wprowadza w skali makroskopowej formalizm zespolonego pędu mechanicznego,
 
 Równanie falowe pędu zespolonego
 <img width="590" height="69" alt="image" src="https://github.com/user-attachments/assets/46b93863-2bae-4d75-bb89-9cbd2ad86ecb" />
+
 Trójkąt falowy pędu zespolonego
 <img width="990" height="678" alt="image" src="https://github.com/user-attachments/assets/5b67de31-4f79-4d37-95a5-b86a2845605b" />
