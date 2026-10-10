@@ -37,16 +37,15 @@ Równanie falowe zespolonej mocy orbitalnej
 
 
 
-Rozkład fazowy mocy orbitalnych
-
-<img width="598" height="724" alt="image" src="https://github.com/user-attachments/assets/56b450b9-ada3-44fe-9b9f-339aeaa210a8" />
-
-
-
-
-
 
 Falowy Trójkąt mocy orbitalnej
 
 <img width="818" height="356" alt="image" src="https://github.com/user-attachments/assets/82e2562c-9cc2-4fa1-9380-66c3420bee81" />
+
+
+
+Rozkład fazowy mocy orbitalnych (widok orbitalny)
+
+<img width="484" height="586" alt="image" src="https://github.com/user-attachments/assets/87b24ab7-ec33-4289-a673-817d692924aa" />
+
 
