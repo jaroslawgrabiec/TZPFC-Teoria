@@ -84,3 +84,17 @@ Równanie mocy orbitalnej dla galaktyk
 
 
 
+
+Schemat ideowy orbity eliptycznej
+
+<img width="551" height="402" alt="image" src="https://github.com/user-attachments/assets/37367830-5f82-422f-9262-9af0b7d0131d" />
+
+
+
+
+Równanie energii orbitalnej
+
+<img width="395" height="65" alt="image" src="https://github.com/user-attachments/assets/75f46abe-7a49-4c94-b5f8-2026464be5da" />
+<img width="880" height="65" alt="image" src="https://github.com/user-attachments/assets/81b0071c-bb2c-4087-8cd7-178756975879" />
+
+               
