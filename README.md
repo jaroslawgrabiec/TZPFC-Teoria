@@ -4,7 +4,8 @@ Praca wprowadza w skali makroskopowej formalizm zespolonego pędu mechanicznego,
 
 Rozróżnienie kanałów energetycznych
 
-<img width="765" height="715" alt="image" src="https://github.com/user-attachments/assets/7a505b54-1bcd-4144-8bcc-6121c960ef9a" />
+<img width="484" height="452" alt="image" src="https://github.com/user-attachments/assets/fe0bc2a2-8057-43e3-a3cd-a6156d5f9c9e" />
+
 
 Równanie falowe pędu zespolonego
 
