@@ -9,9 +9,11 @@ Rozróżnienie kanałów energetycznych
 
 
 
+
 Indukowane siły bezwładności i spręzystości
 
-<img width="478" height="423" alt="image" src="https://github.com/user-attachments/assets/ab4697d3-5bc5-4833-96b1-0b764b89dce2" />
+<img width="471" height="417" alt="image" src="https://github.com/user-attachments/assets/4599dc9a-1332-4c21-8ee0-5e5c37f2252b" />
+
 
 
 
@@ -19,6 +21,7 @@ Indukowane siły bezwładności i spręzystości
 Równanie falowe pędu zespolonego
 
 <img width="590" height="69" alt="image" src="https://github.com/user-attachments/assets/0b138085-f046-4a99-8ed5-376ef556bbbd" />
+
 
 
 
