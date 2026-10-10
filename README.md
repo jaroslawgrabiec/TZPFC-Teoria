@@ -77,3 +77,10 @@ Równanie orbitalnych bezwładności i sprężystości
 <img width="673" height="64" alt="image" src="https://github.com/user-attachments/assets/35a3162f-8f71-4a6c-826d-b3445dd63251" />
 
 
+
+Równanie mocy orbitalnej dla galaktyk
+
+<img width="609" height="388" alt="image" src="https://github.com/user-attachments/assets/449058f1-3d2b-435a-8a2a-e4bbcea6cdc2" />
+
+
+
