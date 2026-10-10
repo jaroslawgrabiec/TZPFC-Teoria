@@ -7,9 +7,15 @@ Rozróżnienie kanałów energetycznych
 <img width="484" height="452" alt="image" src="https://github.com/user-attachments/assets/fe0bc2a2-8057-43e3-a3cd-a6156d5f9c9e" />
 
 
+Indukowane siły bezwładności i spręzystości
+
+<img width="520" height="460" alt="image" src="https://github.com/user-attachments/assets/16f101f8-078c-429e-8ba3-641c44f8dce8" />
+
+
 Równanie falowe pędu zespolonego
 
 <img width="590" height="69" alt="image" src="https://github.com/user-attachments/assets/0b138085-f046-4a99-8ed5-376ef556bbbd" />
+
 
 
 Trójkąt falowy pędu zespolonego
