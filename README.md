@@ -7,9 +7,12 @@ Rozróżnienie kanałów energetycznych
 <img width="484" height="452" alt="image" src="https://github.com/user-attachments/assets/fe0bc2a2-8057-43e3-a3cd-a6156d5f9c9e" />
 
 
+
+
 Indukowane siły bezwładności i spręzystości
 
-<img width="440" height="389" alt="image" src="https://github.com/user-attachments/assets/5d8ee491-1882-49ee-ae47-3ac521e8d519" />
+<img width="478" height="423" alt="image" src="https://github.com/user-attachments/assets/ab4697d3-5bc5-4833-96b1-0b764b89dce2" />
+
 
 
 
