@@ -62,7 +62,18 @@ Rozkład fazowy mocy orbitalnych (widok orbitalny)
 
 
 
+
+
 Wykres czterokwadrantowy mocy orbitalnej
 
 <img width="555" height="498" alt="image" src="https://github.com/user-attachments/assets/7c3636e2-df54-4a41-9781-4b901af259ff" />
+
+
+
+
+
+Równanie orbitalnych bezwładności i sprężystości 
+
+<img width="673" height="64" alt="image" src="https://github.com/user-attachments/assets/35a3162f-8f71-4a6c-826d-b3445dd63251" />
+
 
